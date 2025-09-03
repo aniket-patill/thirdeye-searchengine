@@ -110,14 +110,6 @@ cd ThirdEyeData-Project/myproject
 
 ---
 
-## 6️⃣ Run Migrations (Optional)
-
-If you use Django models, run:
-```
-python manage.py makemigrations
-python manage.py migrate
-```
-> For this project, user registration uses direct SQL, so this step is optional.
 
 ---
 
